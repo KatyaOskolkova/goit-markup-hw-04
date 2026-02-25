@@ -386,11 +386,13 @@ color: var(--secondary-text-color);
 }
 
 /* --------Footer-------- */
+.footer {
+background-color: var(--second-background-color); 
+}
+
 .ftr-adress {
 padding-top: 60px;
 padding-bottom: 60px;
-
-background-color: var(--second-background-color); 
 }
 
 
